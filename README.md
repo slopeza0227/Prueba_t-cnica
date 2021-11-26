@@ -12,7 +12,7 @@ Generar SECRET_KEY
 
 Agregar SECRET_KEY en config.default.py
 
-La DB se llama patente.sqlite y agregue 32.905 registros por el tema del tiempo pero deje toda la lógica para implementarlos en su totalidad
+La DB se llama patente.sqlite y agregue 32.905 registros por el tema del tiempo pero deje toda la lógica para implementarlos en su totalidad en el archivo fillDB.py
 
 Configurar Flask
 	export FLASK_APP="entrypoint:app"
