@@ -8,7 +8,7 @@ Instalar todas las librerías requeridas con
 
 Generar SECRET_KEY
 	import secrets
-	secrets.token_hex(2)
+	secrets.token_hex(20)
 
 Agregar SECRET_KEY en config.default.py
 
